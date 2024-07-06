@@ -1,4 +1,4 @@
-# Voice-Activated Elevator Interface
+# Voice Activated Elevator Interface
 
 ## Overview
 This project is a Voice-Activated Elevator Interface implemented using Python, designed to operate on a Raspberry Pi. The system integrates speech recognition and text-to-speech capabilities to allow users to control the elevator with voice commands. The interface is built using the `tkinter` library for the GUI, `pyttsx3` for text-to-speech, `speech_recognition` for capturing and recognizing speech, and `faster-whisper` for transcription of audio to text.
