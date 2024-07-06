@@ -59,3 +59,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - [Whisper Model](https://github.com/openai/whisper) for the speech recognition engine
 - [pyttsx3](https://github.com/nateshmbhat/pyttsx3) for the text-to-speech functionality
 - [Raspberry Pi](https://www.raspberrypi.org/) for providing an affordable platform for this project
+
+## Demonstration
+Here is the [video demonstration](https://www.youtube.com/watch?v=ZTs3Y28d1dg).
